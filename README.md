@@ -1,32 +1,30 @@
-# microsoft-office-portfolio
-Professional Microsoft Office Portfolio and Productivity Projects
 # Microsoft Office Portfolio
 
 ## Overview
 
-This repository demonstrates practical proficiency in Microsoft Office applications used in business, healthcare, administration, and project management.
+This repository highlights my proficiency in Microsoft Office applications used for professional, academic, administrative, and project management tasks.
 
-## Skills Demonstrated
+## Applications
 
 ### Microsoft Word
-- Professional document formatting
-- Business reports
-- Meeting minutes
-- Academic writing
+- Professional document preparation
+- Academic reports
+- Proposal writing
 - CV development
+- Document formatting
 
 ### Microsoft Excel
 - Data analysis
-- Pivot tables
-- Charts and graphs
-- Budget tracking
 - Dashboard creation
+- Budget tracking
+- Pivot tables
+- Charts and reporting
 
 ### Microsoft PowerPoint
 - Executive presentations
-- Educational presentations
+- Training materials
 - Research presentations
-- Visual storytelling
+- Business pitches
 
 ### Microsoft Outlook
 - Email management
@@ -34,19 +32,14 @@ This repository demonstrates practical proficiency in Microsoft Office applicati
 - Meeting coordination
 - Professional communication
 
-## Portfolio Projects
+## Professional Applications
 
-| Application | Project |
-|------------|---------|
-| Word | Professional CV |
-| Word | Business Report |
-| Excel | Budget Tracker |
-| Excel | Sales Dashboard |
-| PowerPoint | AI Healthcare Presentation |
-| Outlook | Email Management Guide |
+- Administrative support
+- Healthcare documentation
+- Research reporting
+- Project management
+- Executive communication
 
 ## Author
 
 Dr. Caroline Gitonga
-
-Focused on healthcare innovation, AI, data analytics, and digital transformation.
